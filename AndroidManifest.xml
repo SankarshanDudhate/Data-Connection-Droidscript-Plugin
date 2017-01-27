@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sandudhate.plugins.user"
+    android:versionCode="100"
+    android:versionName="1.00" >
+	
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- SDK versions required -->
+	<uses-sdk android:minSdkVersion="8" android:targetSdkVersion="21" />
+
+    <application android:label="NetChecker" android:icon="@drawable/icon" >
+    </application>
+
+</manifest>
